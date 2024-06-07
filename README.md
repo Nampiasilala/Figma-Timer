@@ -1,2 +1,2 @@
-# Figma-timer-
+# figma-timer
 Design Application
